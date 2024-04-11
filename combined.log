@@ -1,0 +1,10 @@
+{"level":"info","message":"Received 5 and 7 parameters for division","service":"calculate-service"}
+{"level":"info","message":"5 and 7 are valid","service":"calculate-service"}
+{"level":"info","message":"Received 5 and 7 parameters for addition","service":"calculate-service"}
+{"level":"info","message":"5 and 7 are valid","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 3 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"5 and 3 are valid","service":"calculate-service"}
+{"level":"info","message":"Received 5 and 3 parameters for modulo","service":"calculate-service"}
+{"level":"info","message":"5 and 3 are valid","service":"calculate-service"}
+{"level":"info","message":"Received 9 parameter for square root","service":"calculate-service"}
+{"level":"info","message":"9 and 0 are valid","service":"calculate-service"}
